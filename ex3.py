@@ -1,5 +1,5 @@
 cont = 1
-numeros = []]
+numeros = []
 pares = []
 impares = []
 
