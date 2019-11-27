@@ -7,3 +7,4 @@ while contador <= 10:
     contador += 1
 
 print(f'A soma dos quadrados é {sum(list(map(lambda valor: valor * valor, numeros)))}')
+
